@@ -4,3 +4,4 @@ Secret message
 Jane BEAR
 Another test
 I love my bear. She is a princess.
+You are a king
